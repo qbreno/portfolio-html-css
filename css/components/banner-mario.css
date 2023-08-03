@@ -1,0 +1,37 @@
+.banner-mario{
+    background-image: url(../../assets/img/background.jpg);
+    background-repeat: no-repeat;
+    height: 716px;
+    background-size: 100%;
+    border-bottom: 10px solid #000000;
+    padding-top: 115px;
+    padding-left: 90px;
+}
+
+.banner-mario .wrapper{
+    display:flex;
+    flex-direction: column;
+    width: 640px;
+}
+
+.banner-mario .main-box{
+    margin-bottom: 40px ;
+}
+
+.banner-mario .navigation{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 1905px){
+    .banner-mario{
+        background-image: url(../../assets/img/background2.jpg);
+        background-color: #000;
+        background-repeat: no-repeat;
+        height: 716px;
+        background-size: 100%;
+        border-bottom: 10px solid #000000;
+        padding-top: 115px;
+        padding-left: 90px;
+    }
+}

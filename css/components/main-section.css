@@ -1,0 +1,27 @@
+.main-section .main-title{
+    margin-bottom: 100px;
+    padding-top: 50px;
+}
+
+.main-section.-skills{
+    padding-bottom: 100px;
+    border-bottom: 10px solid #02080B;
+    background-image: linear-gradient(to bottom, #000000, #02080B);
+}
+
+.main-section.-projects{
+    padding-bottom: 100px;
+    height: 700px;
+    border-bottom: 10px solid #010101;
+    background-image: linear-gradient(to bottom, #02080B, #010101);
+}
+
+.main-section.-sobre{
+    border-bottom: 10px solid #000000;
+    background-size: 100%;
+    background-color: black;
+    background-image: url(../../assets/img/wallpapermario.png);
+    height: 993px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

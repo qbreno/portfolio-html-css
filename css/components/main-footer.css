@@ -1,0 +1,18 @@
+.main-footer{
+    display: flex;
+    justify-content: center;
+    background-color: #000103;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+.main-footer .action{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 50px;
+}
+
+.main-footer .-github{
+    background-color: white;
+    border-radius: 8px;
+}

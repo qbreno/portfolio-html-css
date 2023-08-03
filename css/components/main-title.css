@@ -1,0 +1,27 @@
+.main-title{
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Press Start 2P', sans-serif;
+    text-shadow: 5px 5px 0 #01192A;
+    padding-bottom: 15px;
+}
+
+.main-title.-skills{
+    text-shadow: 5px 5px 0 #07122F;
+    text-align: center;
+}
+
+.main-title.-projects{
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.main-title.-sobre{
+    color:#FFF;
+    text-align: center;
+}
+
+.main-title.-contatos{
+    text-align: center;
+    margin-bottom: 50px;
+}

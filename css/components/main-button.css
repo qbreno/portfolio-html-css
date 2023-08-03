@@ -1,0 +1,31 @@
+.main-button{
+    display: inline-block;
+    color: #ffffff;
+    background-color: #d30090;
+    border-top: #c485b0 1px solid;
+    transition: 0.3s;
+    box-shadow: 5px 5px 0 #0c0409;
+    padding: 18px 20px;
+    margin-right: 0px;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.main-button:hover{
+    background: #6d2655;
+    transform: scale(1.1);
+    border-top: none;
+}
+
+.main-button.-full{
+    width: 100%;
+    background-color: #154b62;
+    border-top: none;
+    margin-bottom: 50px;
+}
+
+.main-button.-full:hover{
+    background: #2e6984;
+    transform: scale(1.02);
+}

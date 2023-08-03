@@ -1,0 +1,10 @@
+.main-projects{
+    display: flex;
+    justify-content: center;
+}
+
+.main-projects .iconxmen{
+    background-color: #1a2f56;
+    box-shadow: 6px 6px 0px #d1d1e8;
+
+}

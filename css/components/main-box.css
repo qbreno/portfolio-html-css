@@ -1,0 +1,13 @@
+.main-box{
+    display: inline-block;
+    background-color: #FBD336;
+    border-top: 5px solid #a58813;
+    border-left: 5px solid #a58813;
+    box-shadow: 10px 10px 0 #090318;
+    text-align: center;
+    padding: 42px 44px;
+}
+
+.main-box .main-tittle{
+    margin-bottom: 28px;
+}
